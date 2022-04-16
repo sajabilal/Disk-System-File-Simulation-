@@ -1,11 +1,10 @@
 # Disk-System-File-Simulation-
 Disk System File Simulation
 Authored by Saja abu Aisheh
-308444223
 
 ==Description==
 
-==Description of ex7_final_proj.2021.c==
+==Description of Disk-System-File-Simulation.c==
 this code is a simulation of the disk file system, it performes the harddisk tasks such as Read, Write and creating file. 
 we use a file to save on as a hard disk, where we save file data location pointing to the data itself. 
 location of data and location blocks(index blocks" are located by a vector which indecate which bits of the hards disk is free and may be used.
@@ -71,6 +70,3 @@ depending on the chosen option
 6-> number of chars written into file with it's file descriptor 
 7->the requested string to be read
 8-> name and file descriptor number of the deleted file 
-
-note: previous excercise has not been implemented in this project in anyway!
-
