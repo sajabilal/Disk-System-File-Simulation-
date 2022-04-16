@@ -1,6 +1,4 @@
 # Disk-System-File-Simulation-
-Disk System File Simulation
-Authored by Saja abu Aisheh
 
 ==Description==
 
